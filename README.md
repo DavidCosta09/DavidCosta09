@@ -6,7 +6,7 @@ Sou David Costa, atuo como QA na Signa
 
 💻 Trabalho com JavaScript, PostgreSql, Postman, Cypress.
 
-🌱 Estou estudando React e Typescript
+🌱 Estou estudando React e Typescript e C# .NET
 
  ##
 
