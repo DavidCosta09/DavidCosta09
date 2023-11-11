@@ -2,7 +2,7 @@
 
 ##
 
-Sou David Costa, atuo como QA na Signa
+Sou David Costa, atuo como QA.
 
 💻 Trabalho com JavaScript, PostgreSql, Postman, Cypress.
 
