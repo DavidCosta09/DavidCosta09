@@ -4,9 +4,7 @@
 
 Sou David Costa, atuo como QA.
 
-💻 Trabalho com Testes Manuais, JavaScript, PostgreSql, Postman, Cypress.
-
-🌱 Estou estudando React e Typescript e C# .NET
+💻 Trabalho com Testes manuais e automatizados, JavaScript, Java, Postman, Cypress e Appium
 
  ##
 
