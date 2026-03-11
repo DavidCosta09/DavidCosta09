@@ -4,7 +4,7 @@
 
 Sou David Costa, atuo como QA.
 
-💻 Trabalho com Testes manuais e automatizados, JavaScript, Java, Postman, Cypress e Appium
+💻 Trabalho com Testes manuais e automatizados, JavaScript, Java, Postman, Cypress, Playwright e Appium
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
