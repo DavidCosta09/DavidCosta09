@@ -12,7 +12,7 @@ Sou David Costa, atuo como QA.
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Playwright" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
-  <img align="center" alt="Appium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg">
+
   
 </div>
   
